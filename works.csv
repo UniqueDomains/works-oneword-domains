@@ -154,7 +154,7 @@ d118df94-6de0-4174-97a1-6ed0353605b0,liii.works,available,3.98,51.98,low,low,4,n
 e0b5258d-1036-42f8-a196-64c7e516f6aa,buy.works,resell,,,high,medium,3,"Sav.com, LLC - 2",10/07/2025 15:45,10/07/2026 15:45
 bd0297ea-7c6f-4036-be5b-b91071cc4cb5,soppy.works,available,3.98,51.98,low,low,5,namecheap,,
 5330ebac-2109-4815-a8fd-49749cd495d9,easter.works,available,7.99,50.99,high,low,6,name.com,,
-351bc709-181c-48b5-a01f-fb83dd41c079,clearance.works,available,7.99,,medium,low,9,name.com,,
+351bc709-181c-48b5-a01f-fb83dd41c079,clearance.works,available,3.98,51.98,medium,low,9,namecheap,,
 7fcc86c6-2e5c-49c5-9146-b9171c2add0e,croptop.works,available,7.99,,high,low,8,name.com,,
 a9bb8b0b-0b0b-4cd1-b87e-7a92917af961,chorus.works,available,,,high,low,6,,,
 3a9d6160-f909-4c0c-b3f2-69a1bb625f06,manyatimeandoft.works,available,7.99,,medium,low,19,name.com,,
@@ -261,7 +261,7 @@ d16b5365-3ef7-4a93-bc93-f7f9b6b3be06,hat.works,premium,242,242,medium,low,3,name
 163fdc5e-b812-4154-b2b4-e5f07c55cea3,gulf.works,resell,,,medium,low,4,"Sav.com, LLC",06/10/2020 16:56,06/10/2026 16:56
 484017d4-f156-4fd3-88e0-65d88a39f743,blackmailing.works,available,7.99,,medium,low,12,name.com,,
 7c74f0e5-fced-4f64-b459-92168be0dbc2,said.works,available,7.99,,high,low,4,name.com,,
-04353ada-1451-45b9-99c9-e4429895a9f4,model.works,resell,,,medium,medium,5,"Spaceship, Inc.",09/04/2024 15:16,09/04/2027 15:16
+04353ada-1451-45b9-99c9-e4429895a9f4,model.works,resell,,,medium,low,5,"Spaceship, Inc.",09/04/2024 15:16,09/04/2027 15:16
 96c4fe9e-21ec-43f6-8bb3-f578251a025e,through.works,available,7.99,50.99,high,low,7,name.com,,
 c29c286c-7d63-449b-b16b-a9088e952714,beatup.works,available,7.99,,medium,low,7,name.com,,
 1595794d-dab2-45c7-85fd-e79b30733afe,acapnic.works,available,3.98,51.98,low,low,7,namecheap,,
@@ -856,8 +856,8 @@ b8e9d537-f2e2-40fd-986e-efadd13a623b,atthelast.works,available,7.99,,medium,low,
 20e3568b-5013-47e0-9b91-06af929a803a,elvis.works,available,7.99,,high,low,5,name.com,,
 cffc6de6-986a-43c4-92f8-ec15bf7f1602,amatory.works,available,3.98,51.98,low,low,7,namecheap,,
 5874a30e-2801-4060-bc36-757f54e50b5a,gingerbreadman.works,available,7.99,,high,low,15,name.com,,
-2246dc6f-4580-4850-b351-1ebf7758310b,hot.works,premium,500,,high,low,3,name.com,,
-6cef004c-b0e3-4f9e-9dd9-2261fa4ec834,steppingstone.works,available,3.98,51.98,low,low,14,namecheap,,
+2246dc6f-4580-4850-b351-1ebf7758310b,hot.works,premium,500,500,medium,medium,3,name.com,,
+6cef004c-b0e3-4f9e-9dd9-2261fa4ec834,steppingstone.works,available,3.98,51.98,medium,low,14,namecheap,,
 74e539a6-7442-4290-b0bd-9ea188c564cf,airtoair.works,available,3.98,51.98,low,low,10,namecheap,,
 35afd44f-8b51-4624-8edc-15f97d37bb8b,hellish.works,available,3.98,51.98,low,low,7,namecheap,,
 461b1b90-414e-41d1-be72-eabcc937bae4,price.works,resell,,,medium,low,5,"Sav.com, LLC",05/03/2026 22:18,05/03/2027 22:18
@@ -927,7 +927,7 @@ d0f99942-1da7-487e-a5ef-36a9b6a4e5b4,eachother.works,available,7.99,,medium,low,
 07df90d9-bec5-4651-8f4a-c77ec9fb9373,sue.works,premium,118.8,118.8,high,low,3,namesilo,,
 b2313983-804a-4ffa-a2f1-2c10fba25ef8,gratitude.works,resell,,,high,low,9,"GoDaddy.com, LLC",15/02/2022 18:18,15/02/2027 18:18
 5bc2ca30-907b-4085-969a-8a1aeb161a33,giveback.works,available,7.99,,high,low,9,name.com,,
-ab9f61de-2682-46be-ba22-7725bcdddef3,cent.works,available,7.99,,high,low,4,name.com,,
+ab9f61de-2682-46be-ba22-7725bcdddef3,cent.works,available,3.98,51.98,medium,low,4,namecheap,,
 6e7f520f-52a1-442b-aa86-ea7e94db906f,allopatric.works,available,3.98,51.98,low,low,10,namecheap,,
 86cbf02c-2a31-4dd8-a52f-0fcf5cc2233e,Oxfam.works,available,7.99,,high,low,5,name.com,,
 6aa26264-468e-4bbd-a464-b8fb065ec620,greatgranddaughter.works,available,7.99,,high,low,19,name.com,,
