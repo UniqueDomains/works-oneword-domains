@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .works one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,224 domains · **Median ask:** $11.08 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/works`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ala.works  | available | $7.99     | —             | high           | low    | 3      | name.com         |
-| buy.works  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 2 |
-| ago.works  | premium   | $42.90    | $42.90        | medium         | low    | 3      | namecheap        |
-| les.works  | available | $7.99     | —             | medium         | low    | 3      | name.com         |
-| gas.works  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
-| apt.works  | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
-| NWO.works  | available | $7.99     | —             | medium         | low    | 3      | name.com         |
-| liv.works  | resell    | —         | —             | low            | low    | 3      | Dynadot Inc      |
-| ask.works  | premium   | $123.75   | —             | high           | medium | 3      | name.com         |
-| aged.works | available | $7.99     | $50.99        | high           | low    | 4      | name.com         |
-| sip.works  | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.  |
-| axe.works  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
-| alar.works | available | $3.98     | $51.98        | low            | low    | 4      | namecheap        |
-| sun.works  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
-| cry.works  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| arum.works | available | $3.98     | $51.98        | low            | low    | 4      | namecheap        |
-| way.works  | resell    | —         | —             | high           | low    | 3      | Porkbun LLC      |
-| fan.works  | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| asat.works | available | $3.98     | $51.98        | low            | low    | 4      | namecheap        |
-| you.works  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| here.works    | available | —         | —             | high           | low    | 4      | —               |
+| period.works  | available | $7.99     | —             | high           | low    | 6      | name.com        |
+| perfect.works | resell    | —         | —             | high           | low    | 7      | Porkbun LLC     |
+| own.works     | available | —         | —             | high           | low    | 3      | —               |
+| YouTube.works | available | —         | —             | high           | medium | 7      | —               |
+| ala.works     | available | $7.99     | —             | high           | low    | 3      | name.com        |
+| gas.works     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC    |
+| ago.works     | premium   | $42.90    | $42.90        | medium         | low    | 3      | namecheap       |
+| les.works     | available | $7.99     | —             | medium         | low    | 3      | name.com        |
+| liv.works     | resell    | —         | —             | low            | low    | 3      | Dynadot Inc     |
+| apt.works     | premium   | $123.75   | —             | high           | low    | 3      | name.com        |
+| NWO.works     | available | $7.99     | —             | medium         | low    | 3      | name.com        |
+| sip.works     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
+| ask.works     | premium   | $123.75   | —             | high           | medium | 3      | name.com        |
+| aged.works    | available | $7.99     | $50.99        | high           | low    | 4      | name.com        |
+| sun.works     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC    |
+| axe.works     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| alar.works    | available | $3.98     | $51.98        | low            | low    | 4      | namecheap       |
+| way.works     | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
+| cry.works     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WORKS One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WORKS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
